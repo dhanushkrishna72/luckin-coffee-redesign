@@ -61,7 +61,7 @@ luckin-coffee-redesign/
 
 ## ✍️ Designed By
 
-> **Designed at [Hadhaan](https://github.com/dhanushkrishna72) by Matrix**  
+> **Designed at Hadhaan by [Matrix(dhanushk)](https://github.com/dhanushkrishna72)**  
 > This project is part of my front-end learning journey and UI/UX portfolio.
 
 ---
